@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Compile
+      - name: Compile 1
         run: echo Hello, world!
     
   DeployDev:
